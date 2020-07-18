@@ -1,0 +1,14 @@
+{
+    "name": "Vinoth R",
+    "details": {
+        "gender": "Male",
+        "age": "32",
+        "places_lived": ["India", "UK", "Belgium"],
+        "address": {
+            "streetaddress": "Besant Nagar",
+            "city": "Chennai",
+            "state": "TamilNAdu",
+            "postalcode": "600100"}
+          
+        }
+}

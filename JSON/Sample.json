@@ -1,0 +1,7 @@
+    {
+    "name" : ["Anand", "Pranav", "Vinoth", "Kathick"],
+    "empid": [456543,452341,457899,223450],
+    "age":[27,21,30,29],
+    "country":["India","USA","UK","Australia"]
+    }
+
